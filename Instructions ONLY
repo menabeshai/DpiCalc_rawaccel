@@ -23,3 +23,17 @@ Game highest sentitity (if it has a limit)
 hit enter
 
 the numebr shown is your new RawAccel multiplier.
+
+
+
+IF NEEDED
+Example.
+
+3000 is aimlabs
+3239 is COD lowest discrepency. But my mouse can only do 3230. set it to that.
+use script.
+3230
+your RawAccel multiplier.
+3239
+
+your new multiplier. you now have effectively 3239. MAKE SURE TO SET YOUR IN GAME SENSITIVITY. this doesn't exxlude that.
