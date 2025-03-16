@@ -1,7 +1,7 @@
 This project was created due to a lack of resources existing.
 
 Sensitivity calculators had discrepency also had increments of 1. most mouses only have increments of 20-50DPI. only 1 mouse via software did incredments of 1. $80 vs RawAccel.
-These scripts calculate DPI to sensitivity mulitplier and adjust accordingly.
+These scripts calculate DPI to sensitivity mulitplier and adjust accordingly. If you have pyperclip(optional) it'll auto copy the final number to your clipboard so you can just paste it into RawAccel.
 
 To keep it simple yet give insturctions to allow it to be Dummy Proof.
 
